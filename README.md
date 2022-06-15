@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dushyanth44
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Shell Script, Perl ,JS
-- 💞️ I'm good in C,Python
+- 🌱 I’m currently exploring in Data Science,AI and,ML.
+- 💞️ I'm good in C,Python,Front-End Web-Development.
 - 📫 How to reach me "Just Ping me, I will reach you out".
 
 <!---
